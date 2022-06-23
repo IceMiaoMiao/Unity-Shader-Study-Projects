@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1706.6667
     height: 976
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -43,12 +43,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
-    width: 1706.6667
+    width: 1706.6666
     height: 926
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 38
+  controlID: 67
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -64,9 +64,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 1303.3334
+    x: 1238.6666
     y: 0
-    width: 403.33337
+    width: 468
     height: 926
   m_MinSize: {x: 101, y: 121}
   m_MaxSize: {x: 4001, y: 4021}
@@ -94,7 +94,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 278.66666
+    width: 263.33334
     height: 570.6667
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
@@ -120,7 +120,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 570.6667
-    width: 1303.3334
+    width: 1238.6666
     height: 355.3333
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
@@ -150,7 +150,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 976
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -175,7 +175,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1706.6667
+    width: 1706.6666
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -197,7 +197,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 956
-    width: 1706.6667
+    width: 1706.6666
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -220,12 +220,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1303.3334
+    width: 1238.6666
     height: 926
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 85
+  controlID: 17
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -245,12 +245,12 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 1303.3334
+    width: 1238.6666
     height: 570.6667
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 86
+  controlID: 18
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -266,9 +266,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 278.66666
+    x: 263.33334
     y: 0
-    width: 1024.6667
+    width: 975.33325
     height: 570.6667
   m_MinSize: {x: 202, y: 221}
   m_MaxSize: {x: 4002, y: 4021}
@@ -326,24 +326,24 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1303.3334
+    x: 1238.6667
     y: 72.66667
-    width: 402.33337
+    width: 467
     height: 905
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
     m_SaveData: []
-  progressMessageClearTime: 15792.654581
+  progressMessageClearTime: 324.4839805
   notificationClearTime: -1
   timeSinceLastRotation: -1
   currentBranchAndRemoteHasUpdate: 0
   currentTrackingStatusHasUpdate: 0
   currentStatusEntriesHasUpdate: 0
-  repositoryProgressHasUpdate: 1
+  repositoryProgressHasUpdate: 0
   appManagerProgressHasUpdate: 0
-  changeTab: 3
-  activeTab: 3
+  changeTab: 5
+  activeTab: 5
   initProjectView:
     hasCompletedInitialCheck: 1
     isUserDataPresent: 1
@@ -354,8 +354,19 @@ MonoBehaviour:
     treeLocals:
       IsRemote: 0
       folders:
-        keys: []
-        values: []
+        keys:
+        - Local branches
+        values:
+        - path: Local branches
+          label: Local branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -364,12 +375,32 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes: []
-      selectedNode:
-        path: 
-        label: 
+      nodes:
+      - path: Local branches
+        label: Local branches
         level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: master
+        label: master
+        level: 1
         isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 1
+        treeIsCheckable: 0
+        checkState: 0
+      selectedNode:
+        path: Local branches
+        label: Local branches
+        level: 0
+        isFolder: 1
         isContainer: 0
         isCollapsed: 0
         isHidden: 0
@@ -379,8 +410,30 @@ MonoBehaviour:
     treeRemotes:
       IsRemote: 1
       folders:
-        keys: []
-        values: []
+        keys:
+        - Remote branches
+        - origin
+        values:
+        - path: Remote branches
+          label: Remote branches
+          level: 0
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
+        - path: origin
+          label: origin
+          level: 1
+          isFolder: 1
+          isContainer: 0
+          isCollapsed: 0
+          isHidden: 0
+          isActive: 0
+          treeIsCheckable: 0
+          checkState: 0
       checkedFileNodes:
         keys: []
         values: []
@@ -389,7 +442,37 @@ MonoBehaviour:
       displayRootNode: 1
       isSelectable: 1
       isCheckable: 0
-      nodes: []
+      nodes:
+      - path: Remote branches
+        label: Remote branches
+        level: 0
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin
+        label: origin
+        level: 1
+        isFolder: 1
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
+      - path: origin/master
+        label: master
+        level: 2
+        isFolder: 0
+        isContainer: 0
+        isCollapsed: 0
+        isHidden: 0
+        isActive: 0
+        treeIsCheckable: 0
+        checkState: 0
       selectedNode:
         path: 
         label: 
@@ -404,33 +487,37 @@ MonoBehaviour:
     mode: 0
     newBranchName: 
     scroll: {x: 0, y: 0}
-    disableDelete: 0
-    disableCreate: 0
+    disableDelete: 1
+    disableCreate: 1
     lastLocalAndRemoteBranchListChangedEvent:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2022-06-23T20:42:45.502+08:00
+      cacheType: 2
     lastCurrentBranchAndRemoteChange:
-      updatedTimeString: 
-      cacheType: 0
+      updatedTimeString: 2022-06-23T20:41:30.172+08:00
+      cacheType: 1
     currentBranch:
-      name: 
-      tracking: 
+      name: master
+      tracking: origin/master
     currentRemote:
-      name: 
-      url: 
+      name: origin
+      url: https://github.com/IceMiaoMiao/Unity-Shader-Study-Projects.git
       login: 
       user: 
       host: 
       function: 0
       token: 
-    localBranches: []
-    remoteBranches: []
+    localBranches:
+    - name: master
+      tracking: origin/master
+    remoteBranches:
+    - name: origin/master
+      tracking: '[None]'
   changesView:
     currentBranchHasUpdate: 0
     currentStatusEntriesHasUpdate: 0
     currentLocksHasUpdate: 0
     commitBody: 
-    commitMessage: xijie
+    commitMessage: 
     currentBranch: '[master]'
     treeScroll: {x: 0, y: 0}
     treeChanges:
@@ -438,84 +525,8 @@ MonoBehaviour:
         keys: []
         values: []
       folders:
-        keys:
-        - .idea
-        - .idea\.idea.EnterUnity
-        - .idea\.idea.EnterUnity\.idea
-        - ProjectSettings
-        values:
-        - path: .idea
-          label: .idea
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .idea\.idea.EnterUnity
-          label: .idea.EnterUnity
-          level: 1
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: .idea\.idea.EnterUnity\.idea
-          label: .idea
-          level: 2
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 0
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
-        - path: ProjectSettings
-          label: ProjectSettings
-          level: 0
-          isFolder: 1
-          isContainer: 0
-          isCollapsed: 1
-          isHidden: 0
-          isActive: 0
-          treeIsCheckable: 1
-          checkState: 0
-          isLocked: 0
-          gitStatusEntry:
-            path: 
-            fullPath: 
-            projectPath: 
-            originalPath: 
-            indexStatus: 0
-            workTreeStatus: 0
+        keys: []
+        values: []
       checkedFileNodes:
         keys: []
         values: []
@@ -544,124 +555,16 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-      - path: .idea
-        label: .idea
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .idea\.idea.EnterUnity
-        label: .idea.EnterUnity
-        level: 1
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .idea\.idea.EnterUnity\.idea
-        label: .idea
-        level: 2
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: .idea\.idea.EnterUnity\.idea\workspace.xml
-        label: workspace.xml
-        level: 3
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: .idea\.idea.EnterUnity\.idea\workspace.xml
-          fullPath: G:\unity\EnterUnity\.idea\.idea.EnterUnity\.idea\workspace.xml
-          projectPath: .idea\.idea.EnterUnity\.idea\workspace.xml
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 3
-      - path: ProjectSettings
-        label: ProjectSettings
-        level: 0
-        isFolder: 1
-        isContainer: 0
-        isCollapsed: 1
-        isHidden: 0
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: 
-          fullPath: 
-          projectPath: 
-          originalPath: 
-          indexStatus: 0
-          workTreeStatus: 0
-      - path: ProjectSettings\SceneTemplateSettings.json
-        label: SceneTemplateSettings.json
-        level: 1
-        isFolder: 0
-        isContainer: 0
-        isCollapsed: 0
-        isHidden: 1
-        isActive: 0
-        treeIsCheckable: 1
-        checkState: 0
-        isLocked: 0
-        gitStatusEntry:
-          path: ProjectSettings\SceneTemplateSettings.json
-          fullPath: G:\unity\EnterUnity\ProjectSettings\SceneTemplateSettings.json
-          projectPath: ProjectSettings\SceneTemplateSettings.json
-          originalPath: 
-          indexStatus: 1
-          workTreeStatus: 1
       selectedNode:
-        path: ProjectSettings
-        label: ProjectSettings
+        path: 
+        label: 
         level: 0
-        isFolder: 1
+        isFolder: 0
         isContainer: 0
-        isCollapsed: 1
+        isCollapsed: 0
         isHidden: 0
         isActive: 0
-        treeIsCheckable: 1
+        treeIsCheckable: 0
         checkState: 0
         isLocked: 0
         gitStatusEntry:
@@ -671,28 +574,16 @@ MonoBehaviour:
           originalPath: 
           indexStatus: 0
           workTreeStatus: 0
-    gitStatusEntries:
-    - path: .idea\.idea.EnterUnity\.idea\workspace.xml
-      fullPath: G:\unity\EnterUnity\.idea\.idea.EnterUnity\.idea\workspace.xml
-      projectPath: .idea\.idea.EnterUnity\.idea\workspace.xml
-      originalPath: 
-      indexStatus: 0
-      workTreeStatus: 3
-    - path: ProjectSettings\SceneTemplateSettings.json
-      fullPath: G:\unity\EnterUnity\ProjectSettings\SceneTemplateSettings.json
-      projectPath: ProjectSettings\SceneTemplateSettings.json
-      originalPath: 
-      indexStatus: 1
-      workTreeStatus: 1
-    changedFilesText: 2 changed files
+    gitStatusEntries: []
+    changedFilesText: No changed files
     lastCurrentBranchChangedEvent:
-      updatedTimeString: 2022-06-23T20:26:42.499+08:00
+      updatedTimeString: 2022-06-23T20:41:30.172+08:00
       cacheType: 1
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2022-06-23T20:27:43.411+08:00
+      updatedTimeString: 2022-06-23T20:43:21.041+08:00
       cacheType: 6
     lastLocksChangedEvent:
-      updatedTimeString: 2022-06-23T20:26:38.156+08:00
+      updatedTimeString: 2022-06-23T20:42:38.775+08:00
       cacheType: 7
   historyView:
     currentLogHasUpdate: 0
@@ -1390,10 +1281,10 @@ MonoBehaviour:
         workTreeStatus: 0
     statusAhead: 0
     lastLogChangedEvent:
-      updatedTimeString: 2022-06-23T20:26:42.636+08:00
+      updatedTimeString: 2022-06-23T20:42:43.377+08:00
       cacheType: 3
     lastTrackingStatusChangedEvent:
-      updatedTimeString: 2022-06-23T20:26:47.347+08:00
+      updatedTimeString: 2022-06-23T20:42:43.227+08:00
       cacheType: 5
     historyControl:
       scroll: {x: 0, y: 0}
@@ -2523,7 +2414,7 @@ MonoBehaviour:
       changingManually: 0
     hasRemote: 1
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2022-06-23T16:31:10.995+08:00
+      updatedTimeString: 2022-06-23T20:43:35.140+08:00
       cacheType: 1
     metricsEnabled: 1
     newRepositoryRemoteUrl: https://github.com/IceMiaoMiao/Unity-Shader-Study-Projects.git
@@ -2537,7 +2428,7 @@ MonoBehaviour:
       newGitEmail: guo23188@qq.com
       needsSaving: 0
       lastCheckUserChangedEvent:
-        updatedTimeString: 0001-01-01T00:00:00.000+00:00
+        updatedTimeString: 2022-06-23T20:42:47.301+08:00
         cacheType: 8
     webTimeout: 3000
     gitTimeout: 5000
@@ -2566,22 +2457,58 @@ MonoBehaviour:
         gitFileStatus: 0
         lockedAt: "1 1\u6708 0001, 08:00"
     lastCurrentRemoteChangedEvent:
-      updatedTimeString: 2022-06-23T20:21:36.952+08:00
+      updatedTimeString: 2022-06-23T20:41:30.172+08:00
       cacheType: 1
     lastLocksChangedEvent:
-      updatedTimeString: 2022-06-23T20:24:50.065+08:00
+      updatedTimeString: 2022-06-23T20:42:38.775+08:00
       cacheType: 7
     lastStatusEntriesChangedEvent:
-      updatedTimeString: 2022-06-23T20:25:40.995+08:00
+      updatedTimeString: 2022-06-23T20:42:42.322+08:00
       cacheType: 6
     lockedFiles: []
     gitStatusEntries:
+    - path: .idea\.idea.EnterUnity\.idea\workspace.xml
+      fullPath: G:\unity\EnterUnity\.idea\.idea.EnterUnity\.idea\workspace.xml
+      projectPath: .idea\.idea.EnterUnity\.idea\workspace.xml
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Assets\Scenes\Scene_5_2.unity
+      fullPath: G:\unity\EnterUnity\Assets\Scenes\Scene_5_2.unity
+      projectPath: Assets\Scenes\Scene_5_2.unity
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Packages\manifest.json
+      fullPath: G:\unity\EnterUnity\Packages\manifest.json
+      projectPath: Packages\manifest.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: Packages\packages-lock.json
+      fullPath: G:\unity\EnterUnity\Packages\packages-lock.json
+      projectPath: Packages\packages-lock.json
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: G:\unity\EnterUnity\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     - path: ProjectSettings\SceneTemplateSettings.json
       fullPath: G:\unity\EnterUnity\ProjectSettings\SceneTemplateSettings.json
       projectPath: ProjectSettings\SceneTemplateSettings.json
       originalPath: 
       indexStatus: 1
       workTreeStatus: 1
+    - path: UserSettings\Layouts\default-2021.dwlt
+      fullPath: G:\unity\EnterUnity\UserSettings\Layouts\default-2021.dwlt
+      projectPath: UserSettings\Layouts\default-2021.dwlt
+      originalPath: 
+      indexStatus: 0
+      workTreeStatus: 3
     currentUsername: 
     unlockFileMenuContent:
       m_Text: Release Lock
@@ -2597,7 +2524,7 @@ MonoBehaviour:
   currentRemoteUrl: https://github.com/IceMiaoMiao/Unity-Shader-Study-Projects.git
   statusAhead: 0
   statusBehind: 0
-  hasItemsToCommit: 1
+  hasItemsToCommit: 0
   isTrackingRemoteBranch: 1
   currentBranchContent:
     m_Text: master
@@ -2608,13 +2535,13 @@ MonoBehaviour:
     m_Image: {fileID: 0}
     m_Tooltip: Url of the origin remote
   lastCurrentBranchAndRemoteChangedEvent:
-    updatedTimeString: 2022-06-23T20:26:42.499+08:00
+    updatedTimeString: 2022-06-23T20:43:35.140+08:00
     cacheType: 1
   lastTrackingStatusChangedEvent:
-    updatedTimeString: 2022-06-23T20:27:43.470+08:00
+    updatedTimeString: 2022-06-23T20:43:38.219+08:00
     cacheType: 5
   lastStatusEntriesChangedEvent:
-    updatedTimeString: 2022-06-23T20:27:43.411+08:00
+    updatedTimeString: 2022-06-23T20:43:38.154+08:00
     cacheType: 6
   pullButtonContent:
     m_Text: Pull
@@ -2632,8 +2559,8 @@ MonoBehaviour:
     m_Text: Fetch
     m_Image: {fileID: 0}
     m_Tooltip: 
-  repositoryProgressValue: 0.5
-  repositoryProgressMessage: Listing changed files...
+  repositoryProgressValue: 0
+  repositoryProgressMessage: Reading locks...
   appManagerProgressValue: 1
   appManagerProgressMessage: Initialized
   connections: []
@@ -2660,7 +2587,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 643.3334
-    width: 1302.3334
+    width: 1237.6666
     height: 334.3333
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -2679,22 +2606,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Materials
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: G:\unity\EnterUnity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 8e6e0000
-    m_LastClickedID: 28302
-    m_ExpandedIDs: 000000008469000000ca9a3b
+    m_SelectedIDs: 445e0000
+    m_LastClickedID: 24132
+    m_ExpandedIDs: 00000000445e00004e5e0000b65e000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2722,7 +2649,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000445e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2840,8 +2767,8 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 72.66667
-    width: 277.66666
+    y: 19
+    width: 262.33334
     height: 549.6667
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -2850,9 +2777,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 90010000
       m_LastClickedID: 0
-      m_ExpandedIDs: 08ebffff2efbffff
+      m_ExpandedIDs: 58f7ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -2896,9 +2823,9 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 278.6667
+    x: 263.33334
     y: 72.66667
-    width: 1022.66675
+    width: 973.33325
     height: 549.6667
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -3152,7 +3079,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.12000873, y: 0.013711229, z: -0.0016561846, w: 0.99268246}
     speed: 2
-    m_Value: {x: 0.11851891, y: 0.013713621, z: -0.0016356062, w: 0.99285585}
+    m_Value: {x: -0.12000873, y: -0.013711228, z: 0.0016561846, w: -0.9926824}
   m_Size:
     m_Target: 10
     speed: 2
