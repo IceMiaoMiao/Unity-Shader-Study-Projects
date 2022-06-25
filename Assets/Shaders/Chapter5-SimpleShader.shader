@@ -1,6 +1,6 @@
 // Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
 
-Shader "Unity Shaders Book/Chapter5/Simple Shader"//定义shader的名字和位置
+Shader "Unity Shader Books/Chapter5/Simple Shader"//定义shader的名字和位置
 {
     SubShader
     {

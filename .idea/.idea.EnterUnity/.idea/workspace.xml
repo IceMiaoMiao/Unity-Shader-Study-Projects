@@ -2,7 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/DiffusePixelLevelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/DiffusePixelLevelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/HalfLambertMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/HalfLambertMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularVertexLevelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularVertexLevelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-DiffusePixelLevel 1.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-DiffusePixelLevel 1.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-HalfLambert.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-HalfLambert.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_6_4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_4.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter5-SimpleShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter5-SimpleShader.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -76,7 +92,8 @@
       <workItem from="1655971625527" duration="34000" />
       <workItem from="1655972280468" duration="3672000" />
       <workItem from="1655988143504" duration="87000" />
-      <workItem from="1656124825657" duration="2043000" />
+      <workItem from="1656124825657" duration="2255000" />
+      <workItem from="1656134254488" duration="4904000" />
     </task>
     <servers />
   </component>
