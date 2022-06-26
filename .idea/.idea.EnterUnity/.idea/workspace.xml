@@ -2,23 +2,270 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/DiffusePixelLevelMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/DiffusePixelLevelMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/HalfLambertMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/HalfLambertMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularVertexLevelMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularVertexLevelMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-DiffusePixelLevel 1.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-DiffusePixelLevel 1.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-HalfLambert.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-HalfLambert.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/7SingleTextureMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/7SingleTextureMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/BlinnPhongMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/BlinnPhongMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularPixelLevelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/SpecularPixelLevelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_1.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_1.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-BlinnPhong.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-BlinnPhong.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularPixelLevel 1.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularPixelLevel 1.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularPixelLevel 2.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularPixelLevel 2.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-SingleTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-SingleTexture.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cereals.sbsar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cereals.sbsar.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemap_0.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemap_0.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negx.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/negz.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posx.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posy.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posz.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Cubemaps/posz.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Cubemap.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Cubemap.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/Glass_Normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/MirrorTexture.renderTexture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter10/MirrorTexture.renderTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/Flame_1.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/Flame_1.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/boom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/boom.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/far_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/far_background.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/flame_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/flame_0.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/near_background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/near_background.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/star.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/water.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/water.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus0.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus1.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/lotus2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura0.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura1.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter12/sakura2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_0.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_1.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_2.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_3.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_4.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/hatch_5.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter14/paper.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Crate_Normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Cubemap.cubemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Cubemap.cubemap.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/Water_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/burn_noise.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/burn_noise.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/fog_noise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/fog_noise.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/water_noise.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter15/water_noise.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Diffuse.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Diffuse.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Height.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Height.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Normal.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Normal.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Occlusion.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Occlusion.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Specular.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter17/Mud_Specular.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/Charts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/Charts/UnityMetallicChart.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/Charts/UnityMetallicChart.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/Charts/UnitySpecularChart.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/Charts/UnitySpecularChart.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/EveningReflection.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/EveningReflection.hdr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/EveningSkyboxHDR.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/EveningSkyboxHDR.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_m.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_m.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_o.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_o.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_barrel_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_o.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_fence_02_o.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_d.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_d.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_02_o.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_02_o.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_o.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_o.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_shield_03_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_d.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_d.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_o.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_o.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/prop_sword_shovel_halberd_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_grass_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_mudslide_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_sg.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/terrain_wetmud_01_sg.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_d.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_d.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_tiled_02_a.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_tiled_02_a.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_tiled_02_n.tif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/PBS/wood_tiled_02_n.tif.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/SunsetSkyboxHDR.hdr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/SunsetSkyboxHDR.hdr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/SunsetSkyboxHDR.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/SunsetSkyboxHDR.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/circle.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter18/circle.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Block.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Block.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Diffuse.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Diffuse.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Checkerboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Checkerboard.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Floor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Grid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Grid.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture0.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture0.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture1.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture1.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture2.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture2.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Diffuse.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Road_Specular.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Diffuse.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Height.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Height.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Wall_Normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8/transparent_texture.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter8/transparent_texture.psd.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Box_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Box_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Box_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Box_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Sphere_Diffuse.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Sphere_Diffuse.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Sphere_Normal.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Objects/Sphere_Normal.JPG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall01_Diffuse.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall01_Diffuse.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall01_Normal.tga" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall01_Normal.tga.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall02_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall02_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall02_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall02_Normal.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall03_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall03_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall03_Normal.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall03_Normal.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall04_Diffuse.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall04_Diffuse.jpg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall05_Diffuse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall05_Diffuse.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall05_Normal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Walls/Wall05_Normal.png.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_6_4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter5-SimpleShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter5-SimpleShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_6_5.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter6-SpecularVertexLevel.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
@@ -26,6 +273,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.14/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -94,6 +344,10 @@
       <workItem from="1655988143504" duration="87000" />
       <workItem from="1656124825657" duration="2255000" />
       <workItem from="1656134254488" duration="4904000" />
+      <workItem from="1656151611860" duration="1622000" />
+      <workItem from="1656153272275" duration="4149000" />
+      <workItem from="1656158614863" duration="59000" />
+      <workItem from="1656166183916" duration="2139000" />
     </task>
     <servers />
   </component>
