@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/7NormalMapTangentSpaceeMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/7NormalMapTangentSpaceeMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/7NormalMapWorldSpaceMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/7NormalMapWorldSpaceMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chaapter7-NormaalMapWorldSpace.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chaapter7-NormaalMapWorldSpace.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-NormalMapTangentSpace.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-NormalMapTangentSpace.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/7RampTextureMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/7RampTextureMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-RampTexture.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter7-RampTexture.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Brick_Normal.JPG.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture0.psd.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Textures/Chapter7/Ramp_Texture0.psd.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +94,7 @@
       <workItem from="1656166183916" duration="2139000" />
       <workItem from="1656222140565" duration="4350000" />
       <workItem from="1656230919426" duration="5283000" />
+      <workItem from="1656250243107" duration="4569000" />
     </task>
     <servers />
   </component>
