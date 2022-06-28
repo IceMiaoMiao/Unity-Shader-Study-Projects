@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/8AlphaTestMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/8AlphaTestMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_8_3.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_8_3.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter8-AlphaTest.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter8-AlphaTest.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/8AlphaBlendBothSidedMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/8AlphaBlendBothSidedMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter-AlphaTestBothSided.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter-AlphaTestBothSided.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter8-AlphaBlend.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter8-AlphaBlend.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/7MaskTextureMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/7MaskTextureMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_7_2.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/8AlphaTestMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/8AlphaTestMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_8_3.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_8_3.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,8 @@
       <workItem from="1656222140565" duration="4350000" />
       <workItem from="1656230919426" duration="5283000" />
       <workItem from="1656250243107" duration="7410000" />
-      <workItem from="1656338157137" duration="5672000" />
+      <workItem from="1656338157137" duration="5732000" />
+      <workItem from="1656420516489" duration="2298000" />
     </task>
     <servers />
   </component>
