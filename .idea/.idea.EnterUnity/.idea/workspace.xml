@@ -2,16 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-ForwardRendering.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-ForwardRendering.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-Shadow.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-Shadow.shader.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter-ForwardRendering.shader" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Shaders/Chapter-ForwardRendering.shader.meta" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AlphaTestWithShadowMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AlphaTestWithShadowMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AttenuationAndShadowMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AttenuationAndShadowMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_4.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_4.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_5.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_5.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AlphaTestWithShadow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AlphaTestWithShadow.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AttenuationAndShadow.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AttenuationAndShadow.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +103,7 @@
       <workItem from="1656338157137" duration="5732000" />
       <workItem from="1656420516489" duration="2298000" />
       <workItem from="1656555775525" duration="2298000" />
-      <workItem from="1656666151724" duration="1512000" />
+      <workItem from="1656666151724" duration="4289000" />
     </task>
     <servers />
   </component>
