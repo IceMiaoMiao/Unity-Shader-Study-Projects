@@ -2,17 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10GlassRefractionMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10GlassRefractionMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10Wall.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10Wall.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2_2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-GlassReftaction.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-GlassReftaction.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ProceduralTextureMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ProceduralTextureMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor/SetPropertyDrawer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor/SetPropertyDrawer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/LICENSE.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/README.md.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyAttribute.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyAttribute.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyExample.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyExample.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/10MirrorMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/10MirrorMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +30,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ide.rider@3.0.14/Rider/Editor/RiderScriptEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Unity_Shaders_Book-master/Unity_Shaders_Book-master/Assets/Scripts/Chapter10/ProceduralTextureGeneration.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,6 +113,7 @@
       <workItem from="1656731373008" duration="2291000" />
       <workItem from="1656738849778" duration="2159000" />
       <workItem from="1656752696126" duration="3035000" />
+      <workItem from="1656777055517" duration="2629000" />
     </task>
     <servers />
   </component>
