@@ -2,13 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10FresnelMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10FresnelMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_5.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_5.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-Fresnel.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10MirrorMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10MirrorMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Common.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/Common.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/MirrorTexture.renderTexture" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/MirrorTexture.renderTexture.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-Mirror.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Common.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Common/BumpedDiffuse.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Common/BumpedDiffuse.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Common/BumpedSpecular.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Common/BumpedSpecular.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Models/Materials/No Name.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Models/Materials/No Name.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +108,8 @@
       <workItem from="1656555775525" duration="2298000" />
       <workItem from="1656666151724" duration="4924000" />
       <workItem from="1656731373008" duration="2291000" />
-      <workItem from="1656738849778" duration="1920000" />
+      <workItem from="1656738849778" duration="2159000" />
+      <workItem from="1656752696126" duration="704000" />
     </task>
     <servers />
   </component>
