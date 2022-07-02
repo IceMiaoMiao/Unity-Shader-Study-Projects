@@ -2,20 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AlphaTestWithShadowMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AlphaTestWithShadowMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AttenuationAndShadowMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/9AttenuationAndShadowMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_4.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_4.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_5.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_9_4_5.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AlphaTestWithShadow.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AlphaTestWithShadow.shader.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AttenuationAndShadow.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter9-AttenuationAndShadow.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ReferlectionMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ReferlectionMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Knot.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Knot.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/No Name.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/No Name.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/TeddyBear_color.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/TeddyBear_color.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/defaultMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/defaultMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/floor1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/floor1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_barrel_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_barrel_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_fence_02.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_fence_02.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_shield_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_shield_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_shield_03.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_shield_03.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_sword_shovel_halberd_01.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/mat_sword_shovel_halberd_01.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/wall1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Materials/wall1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Teapot.FBX" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/Teapot.FBX.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/TeddyBear.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/TeddyBear.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/bunny.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/bunny.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/dragon.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/dragon.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_barrel_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_barrel_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_halberd_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_halberd_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_shed_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_shed_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_shield_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_shield_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_sword_01.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/prop_sword_01.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/suzanne.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/suzanne.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/water_fall.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/water_fall.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-Reflection.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10_Refraction.shader" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/9ShadowMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Cubemap_0.cubemap" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Cubemap_0.cubemap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +144,7 @@
       <workItem from="1656420516489" duration="2298000" />
       <workItem from="1656555775525" duration="2298000" />
       <workItem from="1656666151724" duration="4924000" />
+      <workItem from="1656731373008" duration="1686000" />
     </task>
     <servers />
   </component>
