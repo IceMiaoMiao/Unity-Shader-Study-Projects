@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/10RefractionMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/10RefractionMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_4.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_4.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10FresnelMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/10FresnelMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_5.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_1_5.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter10-Fresnel.shader.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +97,7 @@
       <workItem from="1656555775525" duration="2298000" />
       <workItem from="1656666151724" duration="4924000" />
       <workItem from="1656731373008" duration="2291000" />
+      <workItem from="1656738849778" duration="1920000" />
     </task>
     <servers />
   </component>
