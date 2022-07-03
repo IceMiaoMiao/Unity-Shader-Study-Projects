@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="序列帧动画">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/11ScrollingBackgroundMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/11ScrollingBackgroundMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_11_2_2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_11_2_2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chaper11-ScrollingBackground.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chaper11-ScrollingBackground.shader.meta" afterDir="false" />
+    <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11Water/WaterMat 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11Water/WaterMat 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11Water/WaterMat 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11Water/WaterMat 2.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/11ImageSequenceAnimationMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/11ImageSequenceAnimationMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/11ScrollingBackgroundMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/11ScrollingBackgroundMat.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +102,10 @@
       <workItem from="1656738849778" duration="2159000" />
       <workItem from="1656752696126" duration="3035000" />
       <workItem from="1656777055517" duration="2939000" />
-      <workItem from="1656815095211" duration="3791000" />
+      <workItem from="1656815095211" duration="3917000" />
+      <workItem from="1656819060506" duration="1000" />
+      <workItem from="1656819079852" duration="53000" />
+      <workItem from="1656843060486" duration="1941000" />
     </task>
     <task id="LOCAL-00001" summary="序列帧动画">
       <created>1656816966127</created>
@@ -112,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656816966127</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="滚动背景">
+      <created>1656818999540</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656818999540</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,6 +145,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="序列帧动画" />
-    <option name="LAST_COMMIT_MESSAGE" value="序列帧动画" />
+    <MESSAGE value="滚动背景" />
+    <option name="LAST_COMMIT_MESSAGE" value="滚动背景" />
   </component>
 </project>
