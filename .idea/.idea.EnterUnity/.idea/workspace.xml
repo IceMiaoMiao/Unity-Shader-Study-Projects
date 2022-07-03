@@ -2,26 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ProceduralTextureMat.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Materials/10ProceduralTextureMat.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor/SetPropertyDrawer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Editor/SetPropertyDrawer.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/LICENSE.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/README.md.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyAttribute.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyAttribute.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyExample.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Plugins/SetProperty-master/Scripts/SetPropertyExample.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_3.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_10_3.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11ImageSequenceAnimationMat.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/11ImageSequenceAnimationMat.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_11_2.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_11_2.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter11-ImageSequenceAnimation.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/Materials/boom.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Textures/Chapter11/Materials/boom.mat.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +104,8 @@
       <workItem from="1656731373008" duration="2291000" />
       <workItem from="1656738849778" duration="2159000" />
       <workItem from="1656752696126" duration="3035000" />
-      <workItem from="1656777055517" duration="2629000" />
+      <workItem from="1656777055517" duration="2939000" />
+      <workItem from="1656815095211" duration="1691000" />
     </task>
     <servers />
   </component>
