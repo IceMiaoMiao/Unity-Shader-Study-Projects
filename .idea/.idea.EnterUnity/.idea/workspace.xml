@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94410776-988f-40f8-a4ab-6adfea7398b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_12_2.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_12_2.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BrightnessSaturationAndContrast.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/BrightnessSaturationAndContrast.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter12-BrightnessSaturationAndContrast.shader" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter12-BrightnessSaturationAndContrast.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_12_3.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/Scene_12_3.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EdgeDetection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter12-EdgeDetection.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Shaders/Chapter12-EdgeDetection.shader.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.EnterUnity/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/CurrentMaximizeLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,6 +110,8 @@
       <workItem from="1656910803916" duration="2287000" />
       <workItem from="1656913124490" duration="1000" />
       <workItem from="1656913135488" duration="2000" />
+      <workItem from="1656913152994" duration="2000" />
+      <workItem from="1656929156995" duration="1683000" />
     </task>
     <task id="LOCAL-00001" summary="序列帧动画">
       <created>1656816966127</created>
